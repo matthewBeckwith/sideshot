@@ -1,10 +1,8 @@
 ![Gameplay Image](./screenshots/gameplay.PNG)
 
-<h2 style="text-align:center">SIDESHOT<h2>
-<hr>
+<h2 style="text-align:center">SIDESHOT</h2>
 
 <p style="text-align:center">This is the story of a kid bored in class, that decides to doodle on his notebook paper instead of taking notes.  He eventually falls asleep and finds himself in a dream of his creation!  Playing the part of his spaceship doodle that shoots eyeballs, you fight mathbooks, rulers and other school related enemies that flood the screen.</p>
-<hr>
 
 <p style="text-align:center; font-size:12px">First game I built with Phaser.js</p>
 
