@@ -1,11 +1,12 @@
 <div style="text-align: center;">
     <img src="./screenshots/gameplay.PNG" />
 </div>
+<div style="text-align:center">
+<h2>SIDESHOT</h2>
+<p style="font-size:10px; line-height:0.1; margin-bottom:30px;"> built with Phaser.js</p>
 
-<h2 style="text-align:center">SIDESHOT</h2>
-<p style="text-align:center; font-size:10px; line-height:0.1; margin-bottom:30px;"> built with Phaser.js</p>
-
-<p style="text-align:center">This is the story of a kid bored in class, that decides to doodle on his notebook paper instead of taking notes.  He eventually falls asleep and finds himself in a dream of his creation!  Playing the part of his spaceship doodle that shoots eyeballs, you fight mathbooks, rulers and other school related enemies that flood the screen.</p>
+<p>This is the story of a kid bored in class, that decides to doodle on his notebook paper instead of taking notes.  He eventually falls asleep and finds himself in a dream of his creation!  Playing the part of his spaceship doodle that shoots eyeballs, you fight mathbooks, rulers and other school related enemies that flood the screen.</p>
+</div>
 
 <h3>Install -</h3>
     <ul>
